@@ -45,3 +45,9 @@
 	name = "command department"
 	desc = "A direction sign, pointing out which way the Command department is."
 	icon_state = "direction_bridge"
+
+/obj/structure/sign/map/left/coalition
+	icon_state = "map-left-coa"
+
+/obj/structure/sign/map/right/coalition
+	icon_state = "map-right-coa"
